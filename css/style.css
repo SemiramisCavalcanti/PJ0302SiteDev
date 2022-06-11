@@ -1,0 +1,36 @@
+body {
+    overflow-x: hidden;
+}
+
+.text01 {
+    margin-top: 10%;
+}
+
+.falecom {
+    margin-top: -4%;
+}
+
+.btn-whatsapp {
+    background-color: #34af23;
+    color: aliceblue;
+    filter: drop-shadow(5px 10px 4px #00ff2a);
+}
+
+.btn-email {
+    background-color: rgb(20, 40, 150);
+    color: aliceblue;
+    filter: drop-shadow(5px 10px 4px #10d4e2);
+}
+
+.divcontato {
+    margin-top: 18%;
+    margin-bottom: 1%;
+}
+
+.logo {
+    filter: drop-shadow(0 0 0.75rem white);
+}
+
+.nossoompromisso {
+    text-align: justify;
+}
