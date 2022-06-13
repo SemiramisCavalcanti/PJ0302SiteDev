@@ -23,7 +23,7 @@
         <div class="row nossoCompromisso">
             <div class="col-md mt-3">
                 <h2>NOSSO COMPROMISSO</h2>
-                <h5 class="mt-4" >Cavalcanti & Leandro é um escritório especializado no Direito Previdenciário e
+                <h5 class="mt-4">Cavalcanti & Leandro é um escritório especializado no Direito Previdenciário e
                     Trabalhista, atuamos na busca pelo melhor benefício previdenciário ou assistencial através dos
                     meios administrativo junto ao INSS ou judicial.
                     <br>
@@ -54,48 +54,73 @@
             <div class="accordion-item">
                 <h2 class="accordion-header" id="headingOne">
                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        Item #1
+                     <strong>Sou viúva e recebo pensão por morte, se eu casar novamente perderei o benefício?</strong>   
                     </button>
                 </h2>
                 <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                        <strong>Mussum Ipsum</strong>Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit. Vide electram
-                        sadipscing et per. Per aumento de cachacis, eu reclamis. Paisis, filhis, espiritis santis. Cevadis im ampola pa arma uma pindureta.
+                        <strong>A pensão por morte</strong>é um benefício previdenciário devido aos dependentes dos
+                        segurados do Regime Geral de Previdência Social que falecer, sendo ele aposentado ou
+                        não. Um novo casamento não resulta na perda do benefício recebido pela viúva.
+
                     </div>
                 </div>
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header" id="headingTwo">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        Item #2
+                      <strong>Recebo BPC (Benefício de Prestação Continuada) posso contribuir para me aposentar</strong>  
+                        futuramente?
                     </button>
                 </h2>
                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                        <strong>Mussum Ipsum</strong> Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis. Todo mundo
-                        vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Suco de cevadiss deixa as pessoas mais interessantis.
-                        Admodum accumsan disputationi eu sit. Vide electram sadipscing et per.
-                        Mé faiz elementum girarzis, nisi eros vermeio. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Nec orci
-                        ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. Vehicula non. Ut sed ex eros. Vivamus sit
-                        amet nibh non tellus tristique interdum.
+                        <strong>Sim.</strong>O BPC é um benefício de assistência social e permite que o beneficiário contribua
+                        como segurado facultativo, mas deve ser observado a alíquota ideal para não ter
+                        problemas na hora de requerer a aposentadoria.
+
                     </div>
                 </div>
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header" id="headingThree">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        Item #3
+                   <strong>Sou homem e tenho 65 anos de idade posso me aposentar?</strong>     
                     </button>
                 </h2>
                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                        <strong>Mussum Ipsum</strong>Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nullam a nisl ut ante
-                        blandit hendrerit. Aenean sit amet nisi. Atirei o pau no gatis, per gatis num morreus. Copo furadis é disculpa de bebadis,
-                        arcu quam euismod magna. Si num tem leite então bota uma pinga aí cumpadi!
-                        Diuretics paradis num copo é motivis de denguis. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo!
-                        Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Casamentiss faiz malandris se pirulitá.
-                        A ordem dos tratores não altera o pão duris. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non
-                        consequat odio. Per aumento de cachacis, eu reclamis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur.
+                        <strong>Caso tenha iniciado o trabalho antes da reforma da previdência de 13/11/2019 </strong>Caso tenha iniciado o trabalho antes da reforma da previdência de 13/11/2019
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    <strong> MEI (Microempreendedor Individual) pode aposentar por tempo de contribuição?</strong>   
+                    </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <strong>Sim,</strong>contanto que os requisitos legais sejam preenchidos e após fazer a
+                        complementação das suas contribuições de 5% sobre o salário mínimo para 20% é
+                        possível dar entrada no pedido de aposentadoria por tempo de contribuição.
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                       <strong> Preciso de advogado para dar entrada em um benefício previdenciário?</strong>
+                    </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <strong>É aconselhado o acompanhamento por parte de um profissional especializado, </strong> pois é
+                        ele quem vai verificar possíveis pendências ou falhas na documentação a ser
+                        apresentada ao INSS, obedecendo às formalidades do processo administrativo, desta
+                        forma facilitando a concessão do benefício. Já na via judicial, após uma resposta
+                        negativa do INSS, é necessário o auxílio de um advogado ou um defensor público.
                         Sed non ipsum felis.
                     </div>
                 </div>
