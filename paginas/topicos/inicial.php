@@ -6,6 +6,10 @@
             uma pindureta.</h4>
     </div>
 </div> -->
+<div class=" bg-dark text-light text-end">
+<p class="me-3 p-0 m-0"> <img src="img/torre.png" alt="" width="30" class="p-1"> Mayra Cavalcanti e Giselle Leandro <small> - Advocacia e Assessoria Jurídica</small></p> 
+
+</div>
 <div class="col-md text-center mb-0">
     <img src="img/teste.png" alt="">
 </div>
