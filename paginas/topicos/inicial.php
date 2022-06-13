@@ -143,40 +143,11 @@
             <div class="carousel-indicators mb-0 text-center bg-dark rounded">
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="6" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="7" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="8" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="9" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="10" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="11" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="12" aria-label="Slide 2"></button>
-
+             
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="img/Servicos01.png" class="" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/Servicos02.png" class="" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/Servicos03.png" class="" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/Servicos04.png" class="" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/Servicos05.png" class="" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/Servicos06.png" class="" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/Servicos07.png" class="" alt="...">
+                <img src="img/Servicos07.png" class="" alt="...">
                     <img src="img/Servicos08.png" class="" alt="...">
                     <img src="img/Servicos09.png" class="" alt="...">
                 </div>
