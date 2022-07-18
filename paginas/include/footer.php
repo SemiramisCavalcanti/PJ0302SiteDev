@@ -4,14 +4,7 @@
 
 <footer class="mt-5 rounded">
 <div class="row">
-    <div class="col">
-        <img src="img\png-transparent-computer-security-threat-information-sitelock-grease-miscellaneous-text-trademark.png" alt="" width="150" class="ms-5 mt-4">
-        
-    </div>
-    <div class="col">
-        <img src="img\FenixEchoRoxa.png" alt="" width="120" class="ms-5 p-2">
-
-    </div>
+ 
     <div class="col mt-5 me-2 letramaisescura">
     <p><i class="fas fa-copyright"></i> Todos os direitos reservados FenixEcho.com.br</p>
     </div>

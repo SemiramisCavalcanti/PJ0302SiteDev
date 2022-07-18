@@ -1,13 +1,31 @@
+/* FONTES */
+
+@font-face {
+    font-family: "bucket";
+    src: url(../fonts/b_bucket/bBucket.ttf);
+}
+
+@font-face {
+    font-family: "newRoman";
+    src: url(../fonts/code_new_roman/Code\ New\ Roman\ b.woff);
+}
+
+@font-face {
+    font-family: "burguer";
+    src: url(../fonts/alex/Alex.ttf);
+}
+
+
+/* GERAL */
+
 body {
+    background: url(../img/14.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: justify;
     overflow-x: hidden;
-}
-
-.text01 {
-    margin-top: 10%;
-}
-
-.falecom {
-    margin-top: -4%;
 }
 
 .btn-whatsapp {
@@ -22,15 +40,129 @@ body {
     filter: drop-shadow(5px 10px 4px #10d4e2);
 }
 
-.divcontato {
-    margin-top: 18%;
-    margin-bottom: 1%;
+.falecom {
+    margin-top: -2%;
 }
 
 .logo {
+    filter: drop-shadow(0 0 0.75rem black);
+}
+
+
+/* TOP FIXED */
+
+.torre {
+    font-size: 13px;
+    background-color: #cbcac1;
+}
+
+
+/* INTRODUÇÃO */
+
+.introducao {
+    margin-top: 20%;
+}
+
+.introducao h2 {
+    margin-left: 2%;
+    font-family: burguer;
+}
+
+.subtext {
+    width: 70%;
+    background-color: #cbcac1;
+}
+
+
+/* CONTRIBUIÇÃO INSS */
+
+.carteira {
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cards {
+    background-color: #cbcac1;
+    margin: 0 auto;
+    height: 250px;
+    padding: 5 20 0 20;
     filter: drop-shadow(0 0 0.75rem white);
 }
 
-.nossoompromisso {
+.text01 {
+    margin: 0 auto;
+}
+
+
+/* NOSSO COMPROMISSO */
+
+.nossoCompromisso {
     text-align: justify;
+    background-color: #cbcac1;
+}
+
+
+/* DUVIDAS FREQUENTES */
+
+
+/* SERVIÇOS */
+
+.itens-wrapper {
+    width: 90vw;
+    margin-top: 2%;
+}
+
+#itens {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.item {
+    margin-right: 2%;
+}
+
+ ::-webkit-scrollbar {
+    width: 10px;
+}
+
+
+/* Fundo da barra de rolagem */
+
+ ::-webkit-scrollbar-track-piece {
+    background-color: #EEE;
+    border-left: 1px solid #CCC
+}
+
+
+/* Cor do indicador de rolagem */
+
+ ::-webkit-scrollbar-thumb:vertical,
+ ::-webkit-scrollbar-thumb:horizontal {
+    background-color: #BAC0C4
+}
+
+
+/* Cor do indicador de rolagem - ao passar o mouse */
+
+ ::-webkit-scrollbar-thumb:vertical:hover,
+ ::-webkit-scrollbar-thumb:horizontal:hover {
+    background-color: #717171
+}
+
+
+/* CONTATO */
+
+.divcontato {
+    margin-top: 18%;
+    margin-bottom: 1%;
+    background: #cbcac1;
+}
+
+.text01 {
+    margin-top: 10%;
+}
+
+.block {
+    width: 100vw;
 }

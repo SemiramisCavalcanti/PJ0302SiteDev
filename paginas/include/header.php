@@ -15,4 +15,4 @@
     
 </head>
 
-<body class="bg-dark">
+<body class="container-fluid">
